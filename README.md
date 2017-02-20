@@ -1,5 +1,7 @@
 Simple stepper motor tester project. Mount an inexpensive Arduino Nano, 3.3V step down power supply, StepStick stepper motor driver, and rotary encoder, to a breadboard. Easily connect power and stepper motor through a PatchRap Diagnostic board. Replace StepStick drivers quickly and cheaply if an incident occurs. Turn knob to single-step motor, or push to turn continiously.
 
+Please see StepperTester.pdf or the source components/*.xoj (Xournal) file for a more graphical explanation.
+
 # Bill of Materials (BOM)
 * Battery, 24V 6S LiHV/LiPo - https://hobbyking.com/en_us/turnigy-bolt-1300mah-6s-22-8v-65-130c-high-voltage-lipoly-pack-lihv.html
 * Fuse (aka. boom stopper) - https://hobbyking.com/en_us/boom-stopper.html
